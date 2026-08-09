@@ -704,17 +704,9 @@ img[src*="shandilya-logo"],
   content: url("shandilya-logo.jpeg");
 }
 
-/* Header logo */
-.brand img {
-  width: 5px;
-  height: 5px;
-  object-fit: cover;
-  border-radius: 1px;
-}
-
 /* Main hero logo */
 .hero-logo-card img {
-  width: 10%;
+  width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
 }
