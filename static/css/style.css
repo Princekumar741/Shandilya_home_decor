@@ -15,7 +15,7 @@
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6}
-img{max-width:100%;display:block}
+img{max-width:10%;display:block}
 a{color:inherit;text-decoration:none}
 button,input,textarea{font:inherit}
 .container{width:min(1180px,calc(100% - 48px));margin:auto}
