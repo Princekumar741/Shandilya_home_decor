@@ -706,10 +706,10 @@ img[src*="shandilya-logo"],
 
 /* Header logo */
 .brand img {
-  width: 54px;
-  height: 54px;
+  width: 5px;
+  height: 5px;
   object-fit: cover;
-  border-radius: 10px;
+  border-radius: 1px;
 }
 
 /* Main hero logo */
