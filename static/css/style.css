@@ -714,7 +714,7 @@ img[src*="shandilya-logo"],
 
 /* Main hero logo */
 .hero-logo-card img {
-  width: 100%;
+  width: 10%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
 }
